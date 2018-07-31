@@ -1,2 +1,2 @@
 # Vyper
-Vyper related repo
+Vyper programing language related repo
